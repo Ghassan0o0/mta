@@ -13,18 +13,16 @@
 How to use:
 install the tool:
 1:
-git clone 
+git clone https://github.com/Ghassan0o0/mta.git
 2:
-
+cd mta
 3:
 sudo bash requirements.txt
 
 run the file (mta....py)
 use the command:
 1:
-cd 
-2:
 chmod +x *
-3:
+2:
 python3 mta....py
 ---------------------------------------------
